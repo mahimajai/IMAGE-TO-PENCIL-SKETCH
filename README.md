@@ -30,7 +30,7 @@ pip install opencv-python
 
 ### How to Run (Super Easy)
 ```bash
-git clone https://github.com/mahimajai/IMAGE-TO-PENCIL-SKETCH
+git clone https://github.com/mahimajai/IMAGE-TO-PENCIL-SKETCH.git
 
 cd IMAGE-TO-PENCIL-SKETCH
 
